@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/didenur/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.behance.net/didenur"><img src="https://aleen42.github.io/badges/src/behance.svg"/></a>
-<a href="https://merhabaspektrum.com"><img height="10em" img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Autism_spectrum_infinity_awareness_symbol.svg"/></a>
+<a href="https://merhabaspektrum.com"><img height="25em" img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Autism_spectrum_infinity_awareness_symbol.svg"/></a>
 </p>
 
 <p align="center">
