@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/didenur/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.behance.net/didenur"><img src="https://aleen42.github.io/badges/src/behance.svg"/></a>
-<a href="https://merhabaspektrum.com"><img height="25em" img src="https://freesvg.org/img/Rainbow-Infinity-Symbol.png"/></a>
+<a href="https://merhabaspektrum.com"><img height="25em" img src="https://drive.google.com/file/d/1_qyhvKVeRtcIvbIE8WLNr-o9PXL2yMMj/view?usp=sharing"/></a>
 </p>
 
 <p align="center">
