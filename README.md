@@ -4,10 +4,8 @@
 🍄 Yazılımın yanı sıra, hayatımın büyük bir bölümünü kaplayan iki alan daha var. Bunlar engelli, otistik ve nöroçeşitli bir öz-savunucu olarak 2 yıla yakın süredir kurduğum Merhaba! Spektrum ve neredeyse 1 yıl önce kurulan Özgür Eller Otizm İnisiyatifi'nin kurucu üyesi olarak südürdüğüm aktivizmin ve uzun süredir devam eden grafik tasarım işlerim. <br>
 <br>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/didenur/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
-<p align="center">
 <a href="https://www.behance.net/didenur"><img src="https://aleen42.github.io/badges/src/behance.svg"/></a>
 </p>
 
