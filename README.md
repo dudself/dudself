@@ -1,7 +1,12 @@
-🧙 Merhaba ben Didenur ya da internette bulabileceğiniz şekilde Vin! Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği'nden mezunum. Web, erişilebilirlik, grafik tasarım ve UI/UX ilgi alanlarımı kapsıyor. 8+ yıldır oto-didakt olarak grafik tasarımla ilgilenmemin yanı sıra 2 senedir web, 6 aydır mobil alanlarında projeler ve uygulamalar geliştirmeye çalışıyorum. <br>
-⌛ Son zamanlarda en çok kullandığım teknolojiler React, React Native ve Next.js'i kapsıyor. <br>
-🐸 Sevdiğim alanlara kendimi adayan ve bu alanlar için çokca çabalayan birisi olmamın getirdiği şekilde günceli takip etmek ve yapabildikçe araştırmak beni çokca mutlu ediyor. <br>
-🍄 Yazılım bir yana, hayatımın büyük bir bölümünü kaplayan iki alan daha var. Bunlar engelli, otistik ve nöroçeşitli bir öz-savunucu olarak 2+ yıla yakın süredir kurduğum [Merhaba! Spektrum](https://merhabaspektrum.com)'un ile neredeyse 1 yıl önce kurulan [Özgür Eller Otizm İnisiyatifi](https://ozgureller.org)'nin kurucu üyesi olarak südürdüğüm aktivizm, ve uzun süredir devam eden grafik tasarım ilgimin bana kazandırdığı işler.<br>
+🧙 Hi, I’m Didenur — or you might know me online as Vin!
+I hold a Bachelor’s degree in Computer Engineering from Süleyman Demirel University. My interests span web development, accessibility, mobile development, graphic design, and UI/UX. <br>
+⌛ Alongside a decade of experience in graphic design, I’ve been working professionally in web development for over 4+ years and mobile app development for more than 3+ years. The technologies I use most frequently include React, React Native, Next.js, and TypeScript. My focus is on building secure, accessible, and high-performance applications. <br>
+🐸  I’m highly dedicated to the fields I care about, which drives me to stay up-to-date, research continuously, and keep learning.<br>
+🍄 Beyond software, two areas play a significant role in my life:
+<br>
+As a disabled, autistic, and neurodivergent self-advocate, I’ve been leading  [Merhaba! Spektrum](https://merhabaspektrum.com) for nearly 5 years and co-founded the [Özgür Eller Otizm İnisiyatifi](https://ozgureller.org)about 3 years ago.
+<br>
+My long-standing passion for graphic design has given me a strong aesthetic perspective that I apply both in professional projects and personal work.
 <br>
 
 <p align="left">
