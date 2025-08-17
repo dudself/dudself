@@ -4,7 +4,7 @@ I hold a Bachelor’s degree in Computer Engineering from Süleyman Demirel Univ
 🐸  I’m highly dedicated to the fields I care about, which drives me to stay up-to-date, research continuously, and keep learning.<br>
 🍄 Beyond software, two areas play a significant role in my life:
 <br>
-As a disabled, autistic, and neurodivergent self-advocate, I’ve been leading  [Merhaba! Spektrum](https://merhabaspektrum.com) for nearly 5 years and co-founded the [Özgür Eller Otizm İnisiyatifi](https://ozgureller.org)about 3 years ago.
+As a disabled, autistic, and neurodivergent self-advocate, I’ve been leading  [Merhaba! Spektrum](https://merhabaspektrum.com) for nearly 5 years and co-founded the [Özgür Eller Otizm İnisiyatifi](https://ozgureller.org) about 3 years ago.
 <br>
 My long-standing passion for graphic design has given me a strong aesthetic perspective that I apply both in professional projects and personal work.
 <br>
